@@ -1,7 +1,7 @@
 # Yiimp_install_scrypt (update Feb 18, 2018)
 
 
-Discord : https://discord.gg/Tw9Dcv
+Discord [ru] : https://discord.gg/Tw9Dcv
 
 Official Yiimp (used in this script for Yiimp Installation): https://github.com/tpruvot/yiimp
 
