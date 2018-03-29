@@ -66,4 +66,4 @@ There will be several wallets already in yiimp. These have nothing to do with th
 If this helped you or you feel giving please donate : 
 - BTC Donation : 114HowhWyWLWyCV3MpHi9a5i6tKpjq4WKw
 - BCH Donation : qzgg4xp5adk8j7aa564hvnqf4x55h24w4ve6srjqg9
-- ETH Donation : 0xc950C774d478287501a0232ba7ffEbb78afec6CC
+- ETH Donation : 0x24846FbF7a94040Df6b6cEe6F3B00f38115B2d87
